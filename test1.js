@@ -5,7 +5,7 @@
 
 const MyComponent = () => {
     return (
-        <h1>Hello world hrhrhrhrhrhr</h1>
+        <h1>Hello world hrhrhrhrhrhr yayayayayay</h1>
     );
 };
 
